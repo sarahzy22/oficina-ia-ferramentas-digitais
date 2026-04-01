@@ -1,4 +1,4 @@
-# 🤖 Inteligência Artificial no Dia a Dia
+# Inteligência Artificial no Dia a Dia
 
 ## 📝 Descrição do Projeto
 Este repositório foi desenvolvido para a **Oficina Prática de Ferramentas Digitais no Ensino** da **Uninta**. O foco do nosso trabalho é analisar o impacto da Inteligência Artificial (IA) no cotidiano, explorando desde o uso em assistentes virtuais até as aplicações na saúde e educação.
@@ -18,4 +18,4 @@ O conteúdo completo da nossa pesquisa e os slides da apresentação estarão di
 - **Emanuel Victor**
 
 ---
-*Projeto acadêmico desenvolvido para a disciplina de Ferramentas Digitais - Uninta 2024.*
+*Projeto acadêmico desenvolvido para a disciplina de Ferramentas Digitais - Uninta 2026.*
