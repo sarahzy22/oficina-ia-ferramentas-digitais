@@ -13,9 +13,8 @@ O conteúdo completo da nossa pesquisa e os slides da apresentação estarão di
 
 ## 👥 Integrantes do Grupo (Engenharia da Computação)
 - **Sara** ([@sarahzy22](https://github.com))
-- **Fernando**
-- **Vinícius**
-- **Emanuel Victor**
-
+- **Fernando**  ([@fehr7](https://github.com))
+- **Vinícius**([@](https://github.com))
+- **Emanuel Victor**([@EmanuelFonteles21](https://github.com))
 ---
 *Projeto acadêmico desenvolvido para a disciplina de Ferramentas Digitais - Uninta 2026.*
