@@ -13,7 +13,7 @@ O foco do projeto é analisar o impacto das tecnologias digitais no cotidiano ao
 ## 📁 Como Acessar o Material
 O conteúdo completo da nossa pesquisa e os slides da apresentação estarão disponíveis na lista de arquivos acima assim que finalizados.
 
-## 👥 Integrantes do Grupo (Engenharia da Computação)
+## 👥 Integrantes do Grupo
 - **Sara** ([@sarahzy22](https://github.com))
 - **Fernando**  ([@fehr7](https://github.com))
 - **Vinícius**([@vini121-ct](https://github.com))
