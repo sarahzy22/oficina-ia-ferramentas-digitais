@@ -1,7 +1,9 @@
 # Inteligência Artificial no Dia a Dia
 
 ## 📝 Descrição do Projeto
-Este repositório foi desenvolvido para a **Oficina Prática de Ferramentas Digitais no Ensino** da **Uninta**. O foco do nosso trabalho é analisar o impacto da Inteligência Artificial (IA) no cotidiano, explorando desde o uso em assistentes virtuais até as aplicações na saúde e educação.
+Este projeto foi desenvolvido no contexto acadêmico do curso de **Engenharia da Computação na UNINTA**, a partir de uma proposta prática da instituição.
+
+O foco do projeto é analisar o impacto das tecnologias digitais no cotidiano ao longo dos anos, abordando desde o uso de assistentes virtuais até suas aplicações em áreas como saúde e educação. A pesquisa busca compreender como essas inovações influenciam a rotina das pessoas e contribuem para a transformação da sociedade.
 
 ## 🛠️ Ferramentas Utilizadas
 - **GitHub**: Para hospedagem e documentação do projeto.
