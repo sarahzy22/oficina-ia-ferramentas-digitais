@@ -20,10 +20,9 @@ O conteúdo completo da nossa pesquisa e os slides da apresentação estarão di
 - **Emanuel Victor**([@EmanuelFonteles21](https://github.com))
 - **Pedro Ávila** ([@pedrovascost2](https://github.com))
 
-  ## 📚 Referências
-
+## 📚 Referências
 Este projeto foi baseado em estudos e materiais sobre o uso da Inteligência Artificial na sociedade.
----
+
 ### 🎓 Inteligência Artificial na Educação
 - 📖 [UNESCO – Artificial Intelligence in Education](https://unesdoc.unesco.org/ark:/48223/pf0000376709)  
 - 📖 [OECD – AI in Education](https://www.oecd.org/education/artificial-intelligence-and-the-future-of-teaching-and-learning.htm)  
@@ -38,7 +37,6 @@ Este projeto foi baseado em estudos e materiais sobre o uso da Inteligência Art
 ---
 
 ### 💡 Observação
-
 Os materiais acima foram utilizados como base para compreensão do impacto da Inteligência Artificial no cotidiano, especialmente nas áreas da educação e da saúde.
----
+
 *Projeto acadêmico desenvolvido para a disciplina de Ferramentas Digitais - Uninta 2026.*
