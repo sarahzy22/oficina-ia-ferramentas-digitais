@@ -24,16 +24,20 @@ O conteúdo completo da nossa pesquisa e os slides da apresentação estarão di
 Este projeto foi baseado em estudos e materiais sobre o uso da Inteligência Artificial na sociedade.
 
 ### 🎓 Inteligência Artificial na Educação
-- 📖 [UNESCO – Artificial Intelligence in Education](https://unesdoc.unesco.org/ark:/48223/pf0000376709)  
-- 📖 [OECD – AI in Education](https://www.oecd.org/education/artificial-intelligence-and-the-future-of-teaching-and-learning.htm)  
-- 📖 [ScienceDirect – AI in Education Article](https://www.sciencedirect.com/science/article/pii/S2666920X20300037)  
+
+- UNESCO. Guia para IA generativa na educação e na pesquisa  
+  (https://www.unesco.org/pt/articles/guia-para-ia-generativa-na-educacao-e-na-pesquisa)  
+- RNP. Inteligência Artificial na educação: avanços e desafios  
+  (https://www.rnp.br/blog/inteligencia-artificial-na-educacao-avancos-e-desafios/) 
+
 ---
 ### 🏥 Inteligência Artificial na Saúde
 
-- 🩺 [WHO – AI for Health](https://www.who.int/publications/i/item/9789240029200)  
-- 🩺 [Nature – AI in Healthcare](https://www.nature.com/articles/s41591-018-0300-7)  
-- 🩺 [PubMed – AI in Medicine Review](https://pubmed.ncbi.nlm.nih.gov/30104742/)  
+- Ministério da Saúde. Uso da Inteligência Artificial na saúde  
+  (https://bvsms.saude.gov.br/revolucao-da-inteligencia-artificial-uso-na-saude-traz-novas-possibilidades/) 
 
+- Conselho Federal de Enfermagem (COFEN). Inteligência Artificial na saúde  
+  (https://www.cofen.gov.br/a-inteligencia-artificial-chega-a-saude/)
 ---
 
 ### 💡 Observação
