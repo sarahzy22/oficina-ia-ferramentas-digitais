@@ -12,7 +12,7 @@ O foco do projeto é analisar o impacto das tecnologias digitais no cotidiano ao
 
 ## 📂 Como Acessar o Material
 
-📊 [Clique aqui para acessar os slides](https://docs.google.com/presentation/d/1-WPvIb3ooY_uOSwhK1x5qqFjORgTwZDCfD-eh9W-BZY/edit?usp=sharing))
+📊 [Clique aqui para acessar os slides](https://docs.google.com/presentation/d/1-WPvIb3ooY_uOSwhK1x5qqFjORgTwZDCfD-eh9W-BZY/edit?usp=sharing)
 
 ## 👥 Integrantes do Grupo
 - **Sara** ([@sarahzy22](https://github.com))
