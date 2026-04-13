@@ -10,8 +10,9 @@ O foco do projeto é analisar o impacto das tecnologias digitais no cotidiano ao
 - **Google Slides**: Para a criação da apresentação visual.
 - **Markdown**: Para a organização deste arquivo README.
 
-## 📁 Como Acessar o Material
-O conteúdo completo da nossa pesquisa e os slides da apresentação estarão disponíveis na lista de arquivos acima assim que finalizados.
+## 📂 Como Acessar o Material
+
+📊 [Clique aqui para acessar os slides](https://docs.google.com/presentation/d/1-WPvIb3ooY_uOSwhK1x5qqFjORgTwZDCfD-eh9W-BZY/edit?usp=sharing))
 
 ## 👥 Integrantes do Grupo
 - **Sara** ([@sarahzy22](https://github.com))
